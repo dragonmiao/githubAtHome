@@ -1,4 +1,4 @@
-package SourceFolder3;
+package githubAtHome.SourceFolder3;
 
 public class test3 {
 
